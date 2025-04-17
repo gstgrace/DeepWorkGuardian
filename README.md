@@ -1,5 +1,5 @@
 # DeepWorkGuardian
-## DeepWorkGuardian is a productivity app designed to help you maintain focus and health during long study or work sessions. The app reminds you to take regular breaks for movement and eye rest, promoting physical and mental well-being.
+DeepWorkGuardian is a productivity app designed to help you maintain focus and health during long study or work sessions. The app reminds you to take regular breaks for movement and eye rest, promoting physical and mental well-being.
 
 ## Features
 1. Break Reminders: Get notifications to stand up and take a quick exercise every 60 minutes, and rest your eyes every 20 minutes.
